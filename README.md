@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech IT student at PCCOE&R Pune, driven by a curiosity for technology . My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<SouravPareek>'s Stats](https://github-readme-stats.vercel.app/api?username=<SouravPareek>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<SouravPareek>'s Stats](https://github-readme-stats.vercel.app/api?username=SouravPareek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
